@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mlkit-camera-app</string>
+    <string name="scan_button">Start scan</string>
+</resources>
